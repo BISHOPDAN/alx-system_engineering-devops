@@ -4,7 +4,7 @@ Project done during **Full Stack Software Engineering studies** at **ALX Holbert
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
-I* Tested on Ubuntu 20.04 LTS
+* Tested on Ubuntu 20.04 LTS
 
 ## Files
 
