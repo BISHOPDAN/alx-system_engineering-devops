@@ -24,4 +24,4 @@ Project done during **Full Stack Software Engineering studies** at **ALX Holbert
 | `100-read_and_cut` | Displays the content of the file `/etc/passwd` |
 | `101-tell_the_story_of_passwd` | Displays the content of the file `/etc/passwd` with an specific message |
 | `102-lets_parse_apache_logs` | Displays the visitor IP along with the HTTP status code from an Apache log file |
-I| `103-dig_the-data` | Groups visitors by IP and HTTP status code and displays the occurrences, from the greatest to the lowest number |
+| `103-dig_the-data` | Groups visitors by IP and HTTP status code and displays the occurrences, from the greatest to the lowest number |
